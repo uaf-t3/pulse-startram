@@ -19,6 +19,4 @@ permalink: /downloads/
 
 - Node-RED flows
 
-- Workshop slide decks
 
-- Licensing info (MIT)
