@@ -15,10 +15,10 @@ permalink: /contact/
 # Contact Us
 
 
-# Reach Out to the Team
+## Reach Out to the Team
 
 
-# Project Github
+## Project Github
 
 
-# Partner Organizations
+## Partner Organizations

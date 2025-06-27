@@ -15,17 +15,17 @@ permalink: /docs/
 # Documentation
 This Section goes over...
 
-# Deployment checklist
+## Deployment checklist
 
 
-# Wiring diagrams
+## Wiring diagrams
 
 
-# Power system breakdown
+## Power system breakdown
 
 
-# Node-RED dashboard templates
+## Node-RED dashboard templates
 
 
-# Troubleshooting Guide
+## Troubleshooting Guide
 
