@@ -50,8 +50,8 @@ Students don’t just learn about sensors, they build real systems that solve re
 
 ### Quick Links
 
-- [PULSEtastic Tool](#)
-- [Documentation Page](#)
+- [PULSEtastic Tool](https://github.com/uaf-t3/PULSEtastic)
+- [Documentation Page](https://t3.uaf.edu/pulse-startram/docs/)
 
 ---
 

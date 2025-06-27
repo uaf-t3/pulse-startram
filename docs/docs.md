@@ -25,6 +25,8 @@ This Section goes over...
 
 
 ## Bill Of Materials
+- [PULSE BOM](https://docs.google.com/spreadsheets/d/10uC5fZ4h2JDtwxPtUhvvF3GIogL7pprvKqrKfWEeraI/edit?usp=sharing)
 
 
-## Workshop Slide Decks
+## Teaching Resources
+- [Workshop Slide Deck](https://docs.google.com/presentation/d/1SaqSV5NGbhW8mlMzOuroytjIced-hquEMgIYkwTYrAI/edit?usp=sharing)
