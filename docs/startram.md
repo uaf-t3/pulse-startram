@@ -1,6 +1,7 @@
 ---
 layout: default
 title: STARTRAM
+permalink: /startram/
 ---
 <nav>
   <a href="{{ '/' | relative_url }}">Home</a> |
@@ -12,3 +13,5 @@ title: STARTRAM
   <a href="{{ '/startram/' | relative_url }}">STARTRAM</a> |
   <a href="{{ '/tools/' | relative_url }}">Tools</a> |
 </nav>
+
+# STARTRAM
