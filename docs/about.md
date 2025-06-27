@@ -25,8 +25,12 @@ The Cyberpod team includes Adrian Burke, Hailey Hodgins, and Petie Deveer, with 
 ### T3 and ACEP Connections
 The T3 Alaska program has emphasized environmental monitoring due to the profound impact that changes in the environment can have on life in rural Alaska. Students have carried out projects in past years that explored data collection in remote areas (Chena Hot Springs Resort); however, problems with data transmission and power in places with minimal infrastructure have prevented sensors from being deployed and maintained long-term.
 
-### URSA funding
-The two projects (PULSE, STARTRAM) have been funded by UAF URSA (Undergraduate Research and Student Activity) grants. 
+### Partner Organizations
+The broad applicability and direct relevance to multiple research and education efforts has allowed this work to be supported by the URSA program, along with programs at ACEP and UAF College of Engineering and Mines (CEM): 
+UAF Upward Bound Program, funded by the Dept. of Education;
+ARCTIC Program, funded by the Department of the Navy, Office of Naval Research under ONR award number N00014-22-1-2049
+Project STORM, funded by National Science Foundation EPSCoR (RII Track-2 FEC) award number 2316402
+
 
 
 ## PULSE
