@@ -22,9 +22,9 @@ PULSEtastic is an open-source software toolkit created as part of the PULSE proj
 The Meshtastic Flasher is a user-friendly tool designed to easily install or update Meshtastic firmware on LoRa-based devices (like ESP32 or nRF52 boards) using your web browser.
 
 Key Features:
-Web-based flashing: No setup required—just plug in your device and point Chrome or Edge to the official flasher at [flasher.meshtastic.org](flasher.meshtastic.org)
+- Web-based flashing: No setup required—just plug in your device and point Chrome or Edge to the official flasher at [flasher.meshtastic.org](flasher.meshtastic.org)
 
-Cross-platform support: Works on Windows, macOS, Linux, and different hardware types
+- Cross-platform support: Works on Windows, macOS, Linux, and different hardware types
 
 ## RPi Image
 This is the Raspberry Pi operating system we used, me made some adjustments from the stock image that T3 uses. You can find a link to download it in the [downloads](https://t3.uaf.edu/pulse-startram/downloads/) page.
