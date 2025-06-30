@@ -18,9 +18,9 @@ permalink: /docs/
 This page contains documentation for building and deploying the systems used in the PULSE and STARTRAM projects. It includes wiring diagrams, software setup instructions and some guidance for working with sensors, radios, and power systems. Whether you’re a student, educator, or researcher, these docs are meant to help you replicate or build on our work with minimal guesswork.
 
 ## Wiring diagrams
-![PULSEMAP](/assets/images/tux.png)
+![PULSEMAP](https://github.com/uaf-t3/pulse-startram/blob/main/assets/PULSEmap.png?raw=true)
 *(Description of Photo Above)*
-![OMNISEERCOMPONENTS](/assets/images/tux.png)
+![OMNISEERCOMPONENTS](https://github.com/uaf-t3/pulse-startram/blob/main/assets/OMNISEER_components.png?raw=true)
 *(Description of Photo Above)*
 
 ## Assembly Guides
