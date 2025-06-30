@@ -27,7 +27,7 @@ PULSE (Powering and Unifying Long-ranged Sensor Ecosystems) is focused on evalua
 
 - **JSON** – “JavaScript Object Notation”, stores name-value pairs in a human readable format  
 - **Meshtastic** – an open source protocol for a mesh network on top of long range radio (LoRa)  
-- **Parsing data** – *(definition needed)*  
+- **Parsing data** – cleaning up raw  messages and pulling out the useful parts so the data can be used more easily in other tools or systems 
 - **NodeRED** – a visual programming language based on NodeJS  
 
 ### Why Meshtastic?
