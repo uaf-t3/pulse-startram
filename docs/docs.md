@@ -15,7 +15,7 @@ permalink: /docs/
 </nav>
 
 # Documentation
-This Section goes over...
+This page contains documentation for building and deploying the systems used in the PULSE and STARTRAM projects. It includes wiring diagrams, software setup instructions and some guidance for working with sensors, radios, and power systems. Whether you’re a student, educator, or researcher, these docs are meant to help you replicate or build on our work with minimal guesswork.
 
 ## Wiring diagrams
 

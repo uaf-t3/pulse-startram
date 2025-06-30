@@ -30,3 +30,7 @@ Key Features:
 
 ## RPi Image
 This is the Raspberry Pi operating system we used, me made some adjustments from the stock image that T3 uses. You can find a link to download it in the [downloads](https://t3.uaf.edu/pulse-startram/downloads/) page.
+
+## [modpoll](https://github.com/gavinying/modpoll)
+
+## [rtl433_to_mqtt](https://github.com/dayne/rtl433_to_mqtt/tree/master)

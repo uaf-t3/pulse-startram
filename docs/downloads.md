@@ -25,4 +25,8 @@ During the development of this research project we made a some node red flows th
 You can find them here:
 - Flow Here
 
+## 3D Models
+- Cable Gland Interface
+- Data Plates (with and without breadboard slot)
+- Battery Terminal Covers
 
