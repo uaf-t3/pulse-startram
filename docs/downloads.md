@@ -17,7 +17,7 @@ permalink: /downloads/
 # Download Links
 - [PULSEtastic GitHub](https://github.com/uaf-t3/PULSEtastic)
 
-- RPi image
+- [Preconfigured RPi image](https://drive.google.com/uc?export=download&id=1S6J_fAglL9M6mzWFw1tUbjceDgXkKHDi)
 
 ## Node-RED flows
 During the development of this research project we made a some node red flows that make debugging and using the systems easier to implement. 

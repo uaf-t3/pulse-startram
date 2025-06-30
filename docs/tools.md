@@ -16,7 +16,7 @@ permalink: /tools/
 
 # Tools We Used
 
-## PULSEtastic (Gtihub)
+## PULSEtastic (Github)
 PULSEtastic is an open-source software toolkit created as part of the PULSE project to help process and transmit environmental sensor data over long-range Meshtastic LoRa radio networks. It simplifies the messy output typically received through serial connections by cleaning and formatting incoming messages, making it easier to use the data in tools like NodeRED. Designed for accessibility, it's especially useful in education settings where students are working hands-on with real-time sensor systems. You can find it [here](https://github.com/uaf-t3/PULSEtastic).
 
 
