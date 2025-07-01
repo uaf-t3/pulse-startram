@@ -27,11 +27,6 @@ This page contains documentation for building and deploying the systems used in 
 - PULSE/STARTRAM Setup Guide
 
 
-## Final Reports
-- PULSE Final Report
-- STARTRAM Final Report
-
-
 ## Bill Of Materials
 - [PULSE BOM](https://docs.google.com/spreadsheets/d/10uC5fZ4h2JDtwxPtUhvvF3GIogL7pprvKqrKfWEeraI/edit?usp=sharing)
 - STARTRAM BOM
