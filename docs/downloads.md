@@ -26,7 +26,7 @@ You can find them here:
 - Flow Here
 
 ## 3D Models
-- Cable Gland Interface
-- Data Plates (with and without breadboard slot)
-- Battery Terminal Covers
+- [Cable Gland Interface](https://www.thingiverse.com/thing:7082296)
+- [Data Plates (with and without breadboard slot)](https://www.thingiverse.com/thing:7082335)
+- [Battery Terminal Covers](https://www.thingiverse.com/thing:7082314)
 
