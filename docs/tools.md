@@ -36,3 +36,6 @@ We used modpoll as a simple and reliable way to query Modbus sensors over serial
 
 ## [rtl433_to_mqtt](https://github.com/dayne/rtl433_to_mqtt)
 This tool did for RTL433 sensors what modpoll did for Modbus, it gave us a stable way to forward wireless sensor data to MQTT. We originally tried using a NodeRED node for RTL433, but it was inconsistent. This tool was more reliable, easier to control, and fit better into our existing pipeline. It worked great for decoding Acurite sensors and made it easy to get that data into our system for logging and transmission.
+
+## [MQTT](https://mqtt.org/)
+We used MQTT on the Raspberry Pi to handle local messaging between the sensor interfaces and data feeds. Instead of sending data over the internet, we ran a local MQTT broker so tools like NodeRED and PULSEtastic could subscribe and publish messages directly on the device. This made the system more reliable in off-grid settings and helped keep things modular and easy to debug.
