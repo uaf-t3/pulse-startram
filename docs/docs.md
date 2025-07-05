@@ -29,8 +29,9 @@ This page contains documentation for building and deploying the systems used in 
 
 ## Bill Of Materials
 - [PULSE BOM](https://docs.google.com/spreadsheets/d/10uC5fZ4h2JDtwxPtUhvvF3GIogL7pprvKqrKfWEeraI/edit?usp=sharing)
-- STARTRAM BOM
+- [STARTRAM BOM](https://docs.google.com/spreadsheets/d/174IRNLeMUuqsnyznLM14wMfcDH7MKcHdqiOpLJpMybY/edit?usp=sharing)
 
 
 ## Teaching Resources
-- [Workshop Slide Deck](https://docs.google.com/presentation/d/1SaqSV5NGbhW8mlMzOuroytjIced-hquEMgIYkwTYrAI/edit?usp=sharing)
+- [Software Defined Radio in Node-RED](https://docs.google.com/presentation/d/1_1HP2ypqy_PDIC5DXGG4oKXC9OjzrmDC5iHeSc6XrIo/edit?usp=sharing)
+- [Meshtastic Workshop Presentation](https://docs.google.com/presentation/d/1SaqSV5NGbhW8mlMzOuroytjIced-hquEMgIYkwTYrAI/edit?usp=sharing)
