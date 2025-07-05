@@ -16,17 +16,15 @@ permalink: /downloads/
 
 # Download Links
 - [PULSEtastic GitHub](https://github.com/uaf-t3/PULSEtastic)
-
 - [Preconfigured RPi image](https://drive.google.com/uc?export=download&id=1S6J_fAglL9M6mzWFw1tUbjceDgXkKHDi)
 
 ## Node-RED flows
-During the development of this research project we made a some node red flows that make debugging and using the systems easier to implement. 
-
-You can find them here:
-- Flow Here
+These are the Node-RED configurations for connecting the MQTT and PULSEtastic interfaces
+- [data collector](https://drive.google.com/file/d/1vpqGV72t37_zo8xX6N-60im7a5UlHK_9/view?usp=sharing)
 
 ## 3D Models
 - [Cable Gland Interface](https://www.thingiverse.com/thing:7082296)
 - [Data Plates (with and without breadboard slot)](https://www.thingiverse.com/thing:7082335)
 - [Battery Terminal Covers](https://www.thingiverse.com/thing:7082314)
+- [Bosch BT160 tripod to 2 inch pipe adapter for weather stations](https://www.thingiverse.com/thing:7083097)
 
