@@ -19,9 +19,9 @@ This page contains documentation for building and deploying the systems used in 
 
 ## Wiring diagrams
 ![PULSEMAP](https://github.com/uaf-t3/pulse-startram/blob/main/assets/PULSEmap.png?raw=true)
-*(Description of Photo Above)*
+*(Diagram of Deployed System)*
 ![OMNISEERCOMPONENTS](https://github.com/uaf-t3/pulse-startram/blob/main/assets/OMNISEER_components.png?raw=true)
-*(Description of Photo Above)*
+*(Diagram showing how our system modules communicate with each other)*
 
 ## Assembly Guides
 - PULSE/STARTRAM Setup Guide
