@@ -19,11 +19,11 @@ permalink: /tools/
 ## [PULSEtastic](https://github.com/uaf-t3/PULSEtastic)
 PULSEtastic is an open-source software toolkit created as part of the PULSE project to help process and transmit environmental sensor data over long-range Meshtastic LoRa radio networks. It simplifies the messy output typically received through serial connections by cleaning and formatting incoming messages, making it easier to use the data in tools like NodeRED. Designed for accessibility, it's especially useful in education settings where students are working hands-on with real-time sensor systems.
 
-## [modpoll](https://github.com/gavinying/modpoll)
-We used modpoll as a simple and reliable way to query Modbus sensors over serial and forward that data to MQTT. It let us quickly pull readings from devices and integrate them into our system without needing to write a bunch of custom code. One big advantage was being able to create device templates, which makes it easier for other students or researchers using the same Modbus gear to get started fast.
-
 ## [MQTT](https://mqtt.org/)
-We used MQTT on the Raspberry Pi to handle local messaging between the sensor interfaces and data feeds. Instead of sending data over the internet, we ran a local MQTT broker so tools like NodeRED and PULSEtastic could subscribe and publish messages directly on the device. This made the system more reliable in off-grid settings and helped keep things modular and easy to debug.
+We used MQTT on the Raspberry Pi to handle local messaging between the sensor interfaces and data feeds. Instead of sending data over the internet, we ran a local MQTT broker so tools like Node-RED and PULSEtastic could subscribe and publish messages directly on the device. This made the system more reliable in off-grid settings and helped keep things modular and easy to debug.
+
+## [modpoll](https://github.com/gavinying/modpoll)
+We used gavinying's modpoll as a simple and reliable way to query Modbus sensors over serial and forward that data to MQTT. It let us quickly pull readings from devices and integrate them into our system without needing to write a bunch of custom code. One big advantage was being able to create device templates, which makes it easier for other students or researchers using the same Modbus gear to get started fast.
 
 ## [rtl433_to_mqtt](https://github.com/dayne/rtl433_to_mqtt)
 This tool did for RTL433 sensors what modpoll did for Modbus, it gave us a stable way to forward wireless sensor data to MQTT. We originally tried using a Node-RED node for RTL_433, but it was inconsistent. This tool was more reliable, easier to control, and fit better into our existing pipeline. It worked great for decoding wireless sensors and made it easy to get that data into our system for logging and transmission.
@@ -40,6 +40,3 @@ This is the Raspberry Pi operating system we used, me made some adjustments from
 
 ## [T3x](https://github.com/uaf-t3/t3x)
 This is a raspberry pi configuration tool designed for T3 that we used to build the RPi image and configure existing systems. It contains an sdr-setup script that installs and configures the rtl433_to_mqtt tool.
-
-## [modpoll](https://github.com/gavinying/modpoll)
-We used modpoll as a simple and reliable way to query Modbus sensors over serial and forward that data to MQTT. It let us quickly pull readings from devices and integrate them into our system without needing to write a bunch of custom code. One big advantage was being able to create device templates, which makes it easier for other students or researchers using the same Modbus gear to get started fast.
