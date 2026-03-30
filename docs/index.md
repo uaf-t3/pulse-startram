@@ -21,7 +21,7 @@ This site documents two student-led undergraduate research projects at the [Univ
 - **PULSE** — *Powering and Unifying Long-range Sensor Ecosystems*  
 - **STARTRAM** — *Sensor Technology for Alaska Rural communities Targeting Remote Atmospheric Monitoring*
 
-Both projects were supported by [**UAF's Undergraduate Research & Scholarly Activity (URSA)** program](https://www.uaf.edu/ursa/ and developed in collaboration with [**Alaska Center for Energy and Power (ACEP)**](https://www.uaf.edu/acep) and the [Alaska **Teaching Through Technology (T3)** program](https://t3.uaf.edu).
+Both projects were supported by [**UAF's Undergraduate Research & Scholarly Activity (URSA)** program](https://www.uaf.edu/ursa/) and developed in collaboration with [**Alaska Center for Energy and Power (ACEP)**](https://www.uaf.edu/acep) and the [Alaska **Teaching Through Technology (T3)** program](https://t3.uaf.edu).
 
 ---
 
