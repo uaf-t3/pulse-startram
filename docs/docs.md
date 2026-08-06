@@ -24,7 +24,7 @@ This page contains documentation for building and deploying the systems used in 
 *(Diagram showing how our system modules communicate with each other)*
 
 ## Assembly Guides
-- PULSE/STARTRAM Setup Guide
+- [PULSE/STARTRAM Setup Guide](https://docs.google.com/document/d/1_mmPiOY75Gjwq5tW7Jk_vw8hVIM9GUJX6DEV_qqVJxQ/edit?tab=t.0#heading=h.5ewg5oh34wqr)
 
 
 ## Bill Of Materials
